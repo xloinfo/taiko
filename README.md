@@ -17,7 +17,7 @@ LeonardoTaiko.inoをパソコンにダウンロードしてArduino IDEで開き�
 
 ![image](https://github.com/user-attachments/assets/202db267-253b-4415-852e-d0f8a491602b)
 
-インストールが終わるときにSelect Boardのところから　Arduino Leonardo というデバイスが出て、それを選びます。
+インストールが終わるときに接続器をパソコンに接続すると、Select Boardのところから　 Arduino Leonardo というデバイスが出て、それを選びます。
 （そのしたのCOMはひとそれぞれ違うので、気にしくてもいいです。）
 
 
